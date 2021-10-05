@@ -79,10 +79,14 @@ body {
   line-height: 80px; 
   list-style: none;
   padding: 0 10px;
-  transition: background .5s; 
+  transition: background .5s;
+  text-decoration: none;
 }
-
-.btn:link, .nav ul li:link {
+.nav ul li:link {
+  text-decoration: none;
+  color: #fff;
+}
+.nav ul li:visited {
   text-decoration: none;
   color: #fff;
 }
@@ -91,6 +95,11 @@ body {
   background: #2f4f4f;
   cursor: pointer; 
   transition: background .5s;  
+}
+
+.nav ul li:active {
+  text-decoration: none;
+  color: #fff;
 }
 
 .main .container {
