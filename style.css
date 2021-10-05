@@ -48,9 +48,7 @@ body {
   margin-bottom: 40px;
   margin-top: 0;
   text-transform: uppercase; 
-  border: 3px;
-  border-style: solid;
-  border-color: #000;
+  background-color: #000;
 }
 
 .btn {
