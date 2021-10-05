@@ -43,6 +43,13 @@ body {
   transition: background .5s;  
 }
 
+.bar .container { 
+  background: #000;
+  height: 80px; 
+  width: 100%;
+}
+
+
 .header {
   background-image: url('pictures/Sedona.JPEG') no-repeat center center; 
   background-color: #778899
