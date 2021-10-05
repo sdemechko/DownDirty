@@ -43,7 +43,7 @@ body {
   transition: background .5s;  
 }
 
-a[href*='backpacks'] {
+a[href*='backpacks.html'] {
   color: #ffffff;
 }
 
