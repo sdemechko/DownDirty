@@ -38,17 +38,13 @@ body {
 }
 
 .btn:hover, .nav ul li:hover {
-  background: #117bff;
+  background: #2f4f4f;
   cursor: pointer; 
   transition: background .5s;  
 }
 
-a[href*='backpacks'] {
-  color: #ffffff;
-}
-
 .header {
-  background-image: url(pictures/Sedona.JPEG) no-repeat center center; 
+  background-image: url('pictures/Sedona.JPEG') no-repeat center center; 
   background-color: #778899
   background-size: cover;
   height: 500px;
