@@ -8,6 +8,15 @@ body {
   font-weight: 100;
 }
 
+.white {
+  color: #fff;
+}
+
+.bold {
+  font-weight: bold;
+}
+  
+
 .container {
   margin: 0 auto;
   max-width: 940px; 
@@ -43,7 +52,7 @@ body {
   transition: background .5s;  
 }
 
-.bar .container { 
+.bar { 
   background: #000;
   height: 80px; 
   width: 100%;
