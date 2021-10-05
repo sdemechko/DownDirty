@@ -43,6 +43,10 @@ body {
   transition: background .5s;  
 }
 
+a[href*='backpacks'] {
+  color: #ffffff;
+}
+
 .header {
   background-image: url(pictures/Sedona.JPEG) no-repeat center center; 
   background-color: #778899
