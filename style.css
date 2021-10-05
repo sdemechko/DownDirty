@@ -44,12 +44,11 @@ body {
 }
 
 .header {
-  background image: url('pictures/Sedona.JPEG');
+  background image: url('DownDirty/pictures/Sedona.JPEG');
   position: relative;
   top: 200px;
   text-align: center;
   height: 500px;
-  width: 100%;
 }
 
 .header h1 {
