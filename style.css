@@ -7,7 +7,7 @@ body {
   font-family: 'Roboto', sans-serif;
   font-weight: 100;
   max-width: 940px;
-  padding 0 10px;
+  padding: 0 10px;
 }
 
 .main {
@@ -44,7 +44,7 @@ body {
 }
 
 .header {
-  background image: url('DownDirty/pictures/Sedona.JPEG');
+  background image: url('pictures/14er.jpg');
   position: relative;
   top: 200px;
   text-align: center;
