@@ -9,13 +9,6 @@ body {
 }
 
 
-
-.container {
-  margin: 0 auto;
-  max-width: 940px; 
-  padding: 0 10px;
-}
-
 .nav { 
   background: #000;
   height: 80px; 
@@ -52,10 +45,6 @@ body {
   text-align: center; 
 }
 
-.header .container {
-  position: relative;
-  top: 200px;
-}
 
 .header h1 {
   color: #fff;
@@ -91,11 +80,6 @@ body {
   transition: background .5s; 
 }
 
-
-
-.main .container {
-  margin: 80px auto;
-}
 
 
 .footer { 
