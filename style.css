@@ -44,7 +44,7 @@ body {
 }
 
 .header {
-  background: url(pictures/Sedona.JPEG) no-repeat center center; 
+  background-image: url("pictures/Sedona.JPEG") no-repeat center center; 
   background-size: cover;
   height: 500px;
   text-align: center; 
