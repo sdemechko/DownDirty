@@ -64,7 +64,10 @@ body {
   list-style: none;
   margin: 0 auto; 
   padding: 0;
+  color: #fff;
+  text-decoration: none;
 }
+
 .nav ul li {
   color: #fff;
   text-decoration: none;
