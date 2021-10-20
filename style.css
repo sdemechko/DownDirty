@@ -64,7 +64,7 @@ body {
   padding: 0;
 }
 
-.nav ul li {
+.nav ul {
   color: #fff;
   display: inline-block; 
   height: 80px;
@@ -74,19 +74,22 @@ body {
   transition: background .5s;
   text-decoration: none;
 }
-
-.nav ul li: link, .nav ul li:visited {
+.nav ul :visited {
   text-decoration: none;
   color: #fff;
 }
 
-.nav ul li:hover {
+.nav ul :hover {
   background: #2f4f4f;
   cursor: default; 
   transition: background .5s;  
 }
+.nav ul: focus {
+  text-decoration: none;
+  color: #fff;
+}
 
-.nav ul li:active {
+.nav ul: active {
   text-decoration: none;
   color: #fff;
 }
