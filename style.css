@@ -62,19 +62,6 @@ body {
   list-style: none;
   margin: 0 auto; 
   padding: 0;
-  color: #fff;
-  text-decoration: none;
-}
-
-.nav ul {
-  color: #fff;
-  display: inline-block; 
-  height: 80px;
-  line-height: 80px; 
-  list-style: none;
-  padding: 0 10px;
-  transition: background .5s;
-  text-decoration: none;
 }
 .nav ul :visited {
   text-decoration: none;
