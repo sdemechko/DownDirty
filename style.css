@@ -55,6 +55,8 @@ body {
   background: #000;
   height: 80px; 
   width: 100%;
+  color: #fff;
+  text-decoration: none;
 }
 
 .nav ul {
@@ -62,6 +64,8 @@ body {
   list-style: none;
   margin: 0 auto; 
   padding: 0;
+  color: #fff;
+  text-decoration: none;
 }
 
 .nav ul {
