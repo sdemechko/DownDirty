@@ -75,6 +75,15 @@ body {
   padding: 0 10px;
   transition: background .5s;
 }
+
+.btn{
+  color:#fff;
+  background: #000;
+  padding: 30px 40px;
+  text-decoration: none;
+  transition: background .5s;
+}
+
 .nav ul li:visited {
   text-decoration: none;
   color: #fff;
