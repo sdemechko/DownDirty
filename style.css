@@ -89,7 +89,9 @@ body {
 .nav ul li:hover {
   background: #2f4f4f;
   cursor: default; 
-  transition: background .5s;  
+  transition: background .5s;
+  color: #fff;
+  text-decoration: none;
 }
 .nav ul li: focus {
   text-decoration: none;
