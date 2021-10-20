@@ -55,6 +55,8 @@ body {
   background: #000;
   height: 80px; 
   width: 100%;
+  color: #fff;
+  text-decoration: none;
 }
 
 .nav ul {
@@ -63,22 +65,32 @@ body {
   margin: 0 auto; 
   padding: 0;
 }
-.nav ul :visited {
+.nav ul li {
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+  height: 80px;
+  line-height:80px;
+  list-style: none;
+  padding: 0 10px;
+  transition: background .5s;
+}
+.nav ul li:visited {
   text-decoration: none;
   color: #fff;
 }
 
-.nav ul :hover {
+.nav ul li:hover {
   background: #2f4f4f;
   cursor: default; 
   transition: background .5s;  
 }
-.nav ul: focus {
+.nav ul li: focus {
   text-decoration: none;
   color: #fff;
 }
 
-.nav ul: active {
+.nav ul li: active {
   text-decoration: none;
   color: #fff;
 }
