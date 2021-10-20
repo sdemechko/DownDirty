@@ -83,18 +83,18 @@ body {
   text-decoration: none;
 }
 
-.btn:link, .nav ul li: link, .btn:visited, .nav ul li:visited {
+.btn:link, ul li: link, .btn:visited, ul li:visited {
   text-decoration: none;
   color: #fff;
 }
 
-.btn:hover, .nav ul li:hover {
+.btn:hover, ul li:hover {
   background: #2f4f4f;
   cursor: default; 
   transition: background .5s;  
 }
 
-.btn:active, .nav ul li:active {
+.btn:active, ul li:active {
   text-decoration: none;
   color: #fff;
 }
